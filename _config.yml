@@ -14,9 +14,9 @@ baseurl: ""
 username: Sangrez Khan
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: welcome dear friend!
+typing_text: Welcome dear friend!
 # email: Your E-Mail address for the email button.
-email: khansangrez@example.com
+email: khansangrez@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -32,8 +32,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
-
+about_me_description: I'm a PhD candidate in Software and IT Engineering at École de technologie supérieure (ÉTS) in Montréal, Canada. My research focuses on deep reinforcement learning, graph neural networks, and edge computing. Outside of academia, I enjoy diving into continental philosophy. As a self-proclaimed introvert, I find joy in quiet moments and deep thinking, which might make me seem boring to some—but I’m always curious and driven by a passion for knowledge.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
